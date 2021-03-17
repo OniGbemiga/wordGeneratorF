@@ -1,4 +1,4 @@
-# first_project
+# Word Generator
 
 A new Flutter project.
 
